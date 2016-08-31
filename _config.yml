@@ -1,0 +1,28 @@
+name: ST.BARTH.ROCKS
+favicon: null
+layout_spectrum: 0.673832721542567
+typography_spectrum: 0.31648281984962523
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.36565599078312516
+  lightness: 0.6909926063381135
+  saturation: 0.4520314496476203
+  rhythmicContrast: 0.22549879760481417
+purpose: []
